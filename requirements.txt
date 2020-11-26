@@ -1,0 +1,10 @@
+flask
+flask_sqlalchemy
+flask_restful
+mysql-connector
+mysql-connector-python
+pymysql
+requests
+pylint-flask
+pylint-plugin-utils
+mysqlclient
